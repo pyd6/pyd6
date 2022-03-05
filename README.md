@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pyd6
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java Web
+- 👀 I’m interested in C
+- 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 
 
